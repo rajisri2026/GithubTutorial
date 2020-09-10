@@ -15,7 +15,7 @@ $-  git checkout <branchname>  //switch to the new branch.7(c)
 
 //Add origin for proper connectivity between local and central repo.
 // We call remote repo as origin. this is for sync purpose
-$-  git remote add origin "https://github.com/PreDestin/GithubTutorial.git"//2
+$-  git remote add origin "https://github.com/PreDestin/GithubTutorial.git" //2
 
 //pull cmd pulls all the new or modified files from central repo
 //and directly connects with the master branch.
