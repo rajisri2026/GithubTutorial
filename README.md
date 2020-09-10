@@ -56,10 +56,9 @@ $-  git rebase master  //8(b)
 //central repo and to keep that in a separate branch in central repo.Use below cmd
 $-  git checkout <branchname>
 $-  git push origin <branchname> //origin is the remote or the central repo.
-
 //After making all the necessary changes do push to the central repo.
 //Don't make frequent changes as it may affect other contributors works
-$-  git push
+
 
 //To revert back changes. Take hexa code from git log
 $-  git checkout <8bithexadeccode> <filename> //8
